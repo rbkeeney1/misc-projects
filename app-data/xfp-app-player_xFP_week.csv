@@ -905,7 +905,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,4,WR,Deon Cain,IND,LV,9.9,0,-9.9,0,0.11,55,12.5
 2019,4,WR,Parris Campbell,IND,LV,13.4,7.5,-5.9,0,0.17,116,12.5
 2019,4,WR,Zach Pascal,IND,LV,11.8,11.2,-0.6,0,0.15,91,12.5
-2019,4,RB,Leonard Fournette,JAX,DEN,19.9,26.5,6.6,0.76,0.09,-1,11.5
+2019,4,RB,Leonard Fournette,JAX,DEN,19.9,26.5,6.6,0.74,0.09,-1,11.5
 2019,4,RB,Ryquell Armstead,JAX,DEN,6.2,11.9,5.7,0.21,0.03,7,11.5
 2019,4,TE,Geoff Swaim,JAX,DEN,5.7,4.7,-1,0,0.12,22,8.8
 2019,4,TE,James O'Shaughnessy,JAX,DEN,10.9,8.8,-2.1,0,0.12,49,8.8
@@ -1144,7 +1144,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,5,WR,Deon Cain,IND,KC,1.5,1.7,0.2,0,0.04,7,12.5
 2019,5,WR,TY Hilton,IND,KC,5.9,7.7,1.8,0,0.15,23,12.5
 2019,5,WR,Zach Pascal,IND,KC,3.3,3,-0.3,0.02,0.08,13,12.5
-2019,5,RB,Leonard Fournette,JAX,CAR,24.3,23.6,-0.7,0.92,0.17,-2,11.5
+2019,5,RB,Leonard Fournette,JAX,CAR,24.3,23.6,-0.7,0.88,0.17,-2,11.5
 2019,5,RB,Ryquell Armstead,JAX,CAR,1.9,1.6,-0.3,0.04,0.03,7,11.5
 2019,5,TE,Geoff Swaim,JAX,CAR,1.5,1.4,-0.1,0,0.03,1,8.8
 2019,5,TE,James O'Shaughnessy,JAX,CAR,11.4,8.7,-2.7,0,0.1,39,8.8
@@ -1619,7 +1619,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,7,WR,Chester Rogers,IND,HOU,3.3,4.4,1.1,0,0.06,21,12.5
 2019,7,WR,TY Hilton,IND,HOU,19.5,19.4,-0.1,0,0.31,127,12.5
 2019,7,WR,Zach Pascal,IND,HOU,14,28.6,14.6,0,0.19,52,12.5
-2019,7,RB,Leonard Fournette,JAX,CIN,21.4,16.5,-4.9,0.78,0.07,4,11.5
+2019,7,RB,Leonard Fournette,JAX,CIN,21.4,16.5,-4.9,0.74,0.07,4,11.5
 2019,7,RB,Ryquell Armstead,JAX,CIN,2.8,0.3,-2.5,0.08,0.04,0,11.5
 2019,7,TE,Seth DeValve,JAX,CIN,3.5,0,-3.5,0,0.07,5,8.8
 2019,7,WR,Chris Conley,JAX,CIN,14.8,11.3,-3.5,0,0.25,88,12.5
@@ -3584,12 +3584,12 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,15,WR,Marcus Johnson,IND,NO,7.8,5.7,-2.1,0,0.12,108,12.5
 2019,15,WR,TY Hilton,IND,NO,13.2,6.5,-6.7,0,0.27,99,12.5
 2019,15,WR,Zach Pascal,IND,NO,9,8.4,-0.6,0,0.18,58,12.5
-2019,15,RB,Leonard Fournette,JAX,LV,18.6,12.3,-6.3,0.83,0.25,14,11.5
-2019,15,RB,Ryquell Armstead,JAX,LV,0.8,0.1,-0.7,0.06,0,0,11.5
+2019,15,RB,Leonard Fournette,JAX,LV,18.6,12.3,-6.3,0.79,0.25,14,11.5
+2019,15,RB,Ryquell Armstead,JAX,LV,0.8,0.1,-0.7,0.05,0,0,11.5
 2019,15,TE,Seth DeValve,JAX,LV,2.8,4.3,1.5,0,0.07,16,8.8
 2019,15,WR,Chris Conley,JAX,LV,19.2,20.9,1.7,0,0.29,90,12.5
 2019,15,WR,CJ Board,JAX,LV,1.5,1.8,0.3,0,0.04,7,12.5
-2019,15,WR,Dede Westbrook,JAX,LV,6.6,4.1,-2.5,0.06,0.14,25,12.5
+2019,15,WR,Dede Westbrook,JAX,LV,6.6,4.1,-2.5,0.05,0.14,25,12.5
 2019,15,WR,Keelan Cole,JAX,LV,10.1,10.6,0.5,0,0.21,83,12.5
 2019,15,RB,Darwin Thompson,KC,DEN,5.6,4.9,-0.7,0.36,0.03,0,11.5
 2019,15,RB,LeSean McCoy,KC,DEN,2.9,1.6,-1.3,0.27,0,0,11.5
@@ -4854,14 +4854,14 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,2,WR,TY Hilton,IND,MIN,10.9,5.8,-5.1,0,0.2,87,12.5
 2020,2,WR,Zach Pascal,IND,MIN,11.3,10.9,-0.4,0,0.16,19,12.5
 2020,2,RB,Chris Thompson,JAX,TEN,8.2,11.7,3.5,0.08,0.09,19,11.5
-2020,2,RB,James Robinson,JAX,TEN,13.7,21,7.3,0.67,0.09,-6,11.5
+2020,2,RB,James Robinson,JAX,TEN,13.7,21,7.3,0.64,0.09,-6,11.5
 2020,2,TE,James O'Shaughnessy,JAX,TEN,11.9,8,-3.9,0,0.09,35,8.8
 2020,2,TE,Tyler Eifert,JAX,TEN,9.3,12.6,3.3,0,0.14,88,8.8
 2020,2,WR,Chris Conley,JAX,TEN,11.1,8.8,-2.3,0,0.16,58,12.5
 2020,2,WR,Collin Johnson,JAX,TEN,4.7,0,-4.7,0,0.07,34,12.5
 2020,2,WR,DJ Chark,JAX,TEN,6.8,12.4,5.6,0,0.09,71,12.5
 2020,2,WR,Keelan Cole,JAX,TEN,10.3,17.8,7.5,0,0.16,35,12.5
-2020,2,WR,Laviska Shenault,JAX,TEN,8.7,10.2,1.5,0.21,0.09,44,12.5
+2020,2,WR,Laviska Shenault,JAX,TEN,8.7,10.2,1.5,0.2,0.09,44,12.5
 2020,2,RB,Clyde Edwards-Helaire,KC,LAC,16.3,13,-3.3,0.62,0.18,3,11.5
 2020,2,RB,Darrel Williams,KC,LAC,1.4,2.2,0.8,0,0.02,2,11.5
 2020,2,RB,Darwin Thompson,KC,LAC,3.4,2.1,-1.3,0.25,0.02,-6,11.5
@@ -5641,8 +5641,8 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,5,WR,Marcus Johnson,IND,CLE,4.4,8.3,3.9,0,0.09,44,12.5
 2020,5,WR,TY Hilton,IND,CLE,15.9,12.9,-3,0,0.31,111,12.5
 2020,5,WR,Zach Pascal,IND,CLE,2.8,3.5,0.7,0,0.06,-3,12.5
-2020,5,RB,Chris Thompson,JAX,HOU,5.8,7.2,1.4,0.12,0.07,3,11.5
-2020,5,RB,James Robinson,JAX,HOU,16.7,12,-4.7,0.76,0.16,-23,11.5
+2020,5,RB,Chris Thompson,JAX,HOU,5.8,7.2,1.4,0.11,0.07,3,11.5
+2020,5,RB,James Robinson,JAX,HOU,16.7,12,-4.7,0.72,0.16,-23,11.5
 2020,5,TE,James O'Shaughnessy,JAX,HOU,6.6,5,-1.6,0,0.07,7,8.8
 2020,5,TE,Tyler Eifert,JAX,HOU,12.2,4.6,-7.6,0,0.16,48,8.8
 2020,5,WR,Chris Conley,JAX,HOU,3,7.8,4.8,0,0.05,54,12.5
@@ -6065,6 +6065,15 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,7,WR,Curtis Samuel,CAR,NO,10.5,17.3,6.8,0.11,0.23,18,12.5
 2020,7,WR,DJ Moore,CAR,NO,13.6,25.3,11.7,0,0.19,66,12.5
 2020,7,WR,Robby Anderson,CAR,NO,13.2,13.4,0.2,0,0.31,107,12.5
+2020,7,RB,David Montgomery,CHI,LA,15.2,11.9,-3.3,0.82,0.13,-5,11.5
+2020,7,TE,Cole Kmet,CHI,LA,3.3,6.5,3.2,0,0.05,35,8.8
+2020,7,TE,Demetrius Harris,CHI,LA,4.5,3.5,-1,0,0.08,9,8.8
+2020,7,TE,Jimmy Graham,CHI,LA,9.8,8.1,-1.7,0,0.16,24,8.8
+2020,7,WR,Allen Robinson,CHI,LA,6.5,11,4.5,0,0.11,67,12.5
+2020,7,WR,Anthony Miller,CHI,LA,8.8,5,-3.8,0,0.13,63,12.5
+2020,7,WR,Cordarrelle Patterson,CHI,LA,7.1,4.2,-2.9,0.18,0.11,10,12.5
+2020,7,WR,Darnell Mooney,CHI,LA,11.6,7,-4.6,0,0.18,155,12.5
+2020,7,WR,Javon Wims,CHI,LA,3.1,1.8,-1.3,0,0.05,48,12.5
 2020,7,RB,Giovani Bernard,CIN,CLE,16.6,20.6,4,0.65,0.11,-10,11.5
 2020,7,RB,Samaje Perine,CIN,CLE,2.1,1.6,-0.5,0.05,0.02,0,11.5
 2020,7,TE,Drew Sample,CIN,CLE,9.1,10.2,1.1,0,0.13,27,8.8
@@ -6081,11 +6090,11 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,7,WR,Jarvis Landry,CLE,CIN,9.8,10.5,0.7,0.1,0.21,21,12.5
 2020,7,WR,Odell Beckham,CLE,CIN,1.9,0,-1.9,0,0.04,35,12.5
 2020,7,WR,Rashard Higgins,CLE,CIN,10.3,17,6.7,0,0.21,94,12.5
-2020,7,RB,Ezekiel Elliott,DAL,WAS,9.2,6.1,-3.1,0.55,0.1,4,11.5
-2020,7,RB,Tony Pollard,DAL,WAS,5.4,3.2,-2.2,0.36,0.05,0,11.5
+2020,7,RB,Ezekiel Elliott,DAL,WAS,9.2,6.1,-3.1,0.52,0.1,4,11.5
+2020,7,RB,Tony Pollard,DAL,WAS,5.4,3.2,-2.2,0.35,0.05,0,11.5
 2020,7,TE,Dalton Schultz,DAL,WAS,6.4,4.2,-2.2,0,0.19,37,8.8
-2020,7,WR,Amari Cooper,DAL,WAS,10.9,15.5,4.6,0.05,0.33,59,12.5
-2020,7,WR,CeeDee Lamb,DAL,WAS,8.7,0.1,-8.6,0.05,0.24,42,12.5
+2020,7,WR,Amari Cooper,DAL,WAS,10.9,15.5,4.6,0.04,0.33,59,12.5
+2020,7,WR,CeeDee Lamb,DAL,WAS,8.7,0.1,-8.6,0.04,0.24,42,12.5
 2020,7,WR,Michael Gallup,DAL,WAS,2.8,0,-2.8,0,0.1,18,12.5
 2020,7,RB,Melvin Gordon,DEN,KC,14.7,16,1.3,0.53,0.11,1,11.5
 2020,7,RB,Phillip Lindsay,DEN,KC,4.4,7.9,3.5,0.28,0,0,11.5
@@ -6138,9 +6147,17 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,7,WR,Marcus Kemp,KC,DEN,1.6,2.1,0.5,0,0.04,1,12.5
 2020,7,WR,Mecole Hardman,KC,DEN,4.1,9,4.9,0.05,0.08,43,12.5
 2020,7,WR,Tyreek Hill,KC,DEN,17.1,17.5,0.4,0,0.42,97,12.5
+2020,7,RB,Darrell Henderson,LA,CHI,12.7,9.7,-3,0.48,0.06,-1,11.5
+2020,7,RB,Malcolm Brown,LA,CHI,9.5,11.7,2.2,0.32,0.03,9,11.5
+2020,7,TE,Gerald Everett,LA,CHI,10.1,12.8,2.7,0,0.16,17,8.8
+2020,7,TE,Johnny Mundt,LA,CHI,4.8,7.7,2.9,0,0.1,6,8.8
+2020,7,WR,Cooper Kupp,LA,CHI,9.5,11.9,2.4,0.03,0.19,21,12.5
+2020,7,WR,Josh Reynolds,LA,CHI,17.1,15.2,-1.9,0,0.26,141,12.5
+2020,7,WR,Robert Woods,LA,CHI,9.2,7.5,-1.7,0.13,0.16,49,12.5
+2020,7,WR,Van Jefferson,LA,CHI,1.7,2.4,0.7,0,0.03,14,12.5
 2020,7,RB,Gabe Nabers,LAC,JAX,1.7,0,-1.7,0,0.02,2,11.5
-2020,7,RB,Joshua Kelley,LAC,JAX,14.9,10.3,-4.6,0.5,0.12,-8,11.5
-2020,7,RB,Justin Jackson,LAC,JAX,11.2,10.5,-0.7,0.21,0.14,-19,11.5
+2020,7,RB,Joshua Kelley,LAC,JAX,14.9,10.3,-4.6,0.48,0.12,-8,11.5
+2020,7,RB,Justin Jackson,LAC,JAX,11.2,10.5,-0.7,0.2,0.14,-19,11.5
 2020,7,RB,Troymaine Pope,LAC,JAX,0.5,0.6,0.1,0.04,0,0,11.5
 2020,7,TE,Donald Parham,LAC,JAX,2.3,9.2,6.9,0,0.02,22,8.8
 2020,7,TE,Hunter Henry,LAC,JAX,11.5,5.3,-6.2,0,0.17,54,8.8
@@ -6161,11 +6178,12 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,7,WR,Rico Gafford,LV,TB,2.4,0,-2.4,0,0.03,42,12.5
 2020,7,RB,Damien Harris,NE,SF,6.2,8,1.8,0.53,0.05,-3,11.5
 2020,7,RB,James White,NE,SF,1.4,1.3,-0.1,0,0.05,2,11.5
-2020,7,RB,Rex Burkhead,NE,SF,7.9,7.7,-0.2,0.21,0.2,-1,11.5
+2020,7,RB,Rex Burkhead,NE,SF,7.9,7.7,-0.2,0.21,0.19,-1,11.5
+2020,7,TE,Dalton Keene,NE,SF,1.5,1.8,0.3,0,0.05,7,8.8
 2020,7,TE,Ryan Izzo,NE,SF,1.4,1.8,0.4,0,0.05,2,8.8
 2020,7,WR,Damiere Byrd,NE,SF,3.1,2.6,-0.5,0,0.1,22,12.5
-2020,7,WR,Jakobi Meyers,NE,SF,11.3,10.2,-1.1,0.05,0.3,128,12.5
-2020,7,WR,Julian Edelman,NE,SF,4.4,2.3,-2.1,0,0.15,24,12.5
+2020,7,WR,Jakobi Meyers,NE,SF,11.3,10.2,-1.1,0.05,0.29,128,12.5
+2020,7,WR,Julian Edelman,NE,SF,4.4,2.3,-2.1,0,0.14,24,12.5
 2020,7,WR,N'Keal Harry,NE,SF,2.8,1.6,-1.2,0,0.1,7,12.5
 2020,7,RB,Alvin Kamara,NO,CAR,20,22.8,2.8,0.5,0.23,-20,11.5
 2020,7,RB,Latavius Murray,NO,CAR,8.6,6.6,-2,0.39,0.03,3,11.5
@@ -6184,21 +6202,23 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,7,WR,Golden Tate,NYG,PHI,3.5,10.9,7.4,0,0.07,28,12.5
 2020,7,WR,Sterling Shepard,NYG,PHI,12.5,17.9,5.4,0,0.28,54,12.5
 2020,7,RB,Frank Gore,NYJ,BUF,5.3,6,0.7,0.5,0,0,11.5
-2020,7,RB,La'Mical Perine,NYJ,BUF,10.5,13.5,3,0.5,0.2,11,11.5
-2020,7,TE,Chris Herndon,NYJ,BUF,1.4,0,-1.4,0,0.07,3,8.8
-2020,7,TE,Trevon Wesco,NYJ,BUF,1.4,0,-1.4,0,0.07,2,8.8
-2020,7,WR,Braxton Berrios,NYJ,BUF,9,7.5,-1.5,0,0.47,42,12.5
-2020,7,WR,Breshad Perriman,NYJ,BUF,3.1,4.7,1.6,0,0.13,17,12.5
-2020,7,WR,Jeff Smith,NYJ,BUF,1.9,0,-1.9,0,0.07,18,12.5
+2020,7,RB,La'Mical Perine,NYJ,BUF,10.5,13.5,3,0.5,0.14,11,11.5
+2020,7,TE,Chris Herndon,NYJ,BUF,1.4,0,-1.4,0,0.05,3,8.8
+2020,7,TE,Trevon Wesco,NYJ,BUF,1.4,0,-1.4,0,0.05,2,8.8
+2020,7,WR,Braxton Berrios,NYJ,BUF,9,7.5,-1.5,0,0.32,42,12.5
+2020,7,WR,Breshad Perriman,NYJ,BUF,3.1,4.7,1.6,0,0.09,17,12.5
+2020,7,WR,Denzel Mims,NYJ,BUF,11.1,8.2,-2.9,0,0.32,18,12.5
+2020,7,WR,Jeff Smith,NYJ,BUF,1.9,0,-1.9,0,0.05,18,12.5
 2020,7,RB,Boston Scott,PHI,NYG,15.3,18.2,2.9,0.52,0.12,14,11.5
-2020,7,RB,Corey Clement,PHI,NYG,2.6,3.1,0.5,0.09,0.03,1,11.5
-2020,7,RB,Jason Huntley,PHI,NYG,2.3,1.3,-1,0.09,0.03,0,11.5
+2020,7,RB,Corey Clement,PHI,NYG,2.6,3.1,0.5,0.09,0.02,1,11.5
+2020,7,RB,Jason Huntley,PHI,NYG,2.3,1.3,-1,0.09,0.02,0,11.5
 2020,7,TE,Richard Rodgers,PHI,NYG,11.3,14.5,3.2,0,0.2,61,8.8
 2020,7,WR,DeSean Jackson,PHI,NYG,9.6,7.6,-2,0.04,0.12,45,12.5
 2020,7,WR,Greg Ward,PHI,NYG,8.6,15.2,6.6,0,0.15,43,12.5
-2020,7,WR,JJ Arcega-Whiteside,PHI,NYG,1.4,1.8,0.4,0,0.03,3,12.5
+2020,7,WR,Hakeem Butler,PHI,NYG,2.1,0,-2.1,0,0.02,3,12.5
+2020,7,WR,JJ Arcega-Whiteside,PHI,NYG,1.4,1.8,0.4,0,0.02,3,12.5
 2020,7,WR,John Hightower,PHI,NYG,3.4,6.9,3.5,0,0.05,20,12.5
-2020,7,WR,Travis Fulgham,PHI,NYG,18.3,12.3,-6,0,0.28,133,12.5
+2020,7,WR,Travis Fulgham,PHI,NYG,18.3,12.3,-6,0,0.27,133,12.5
 2020,7,RB,Anthony McFarland,PIT,TEN,2,0.6,-1.4,0.04,0.02,-2,11.5
 2020,7,RB,Benny Snell,PIT,TEN,5.4,6.2,0.8,0.08,0,0,11.5
 2020,7,RB,James Conner,PIT,TEN,26.6,15.1,-11.5,0.83,0.12,3,11.5
@@ -6268,7 +6288,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,1,QB,Aaron Rodgers,GB,CHI,7.4,7.9,0.5,0,0,300,13.5
 2019,1,QB,Deshaun Watson,HOU,NO,11.6,26,14.4,0.1,0,325,13.5
 2019,1,QB,Jacoby Brissett,IND,LAC,8.1,14.1,6,0.06,0,158,13.5
-2019,1,QB,Gardner Minshew II,JAX,KC,8,17.2,9.2,0,0,140,13.5
+2019,1,QB,Gardner Minshew,JAX,KC,16.1,34.4,18.3,0,0,280,13.5
 2019,1,QB,Nick Foles,JAX,KC,3,7,4,0,0,79,13.5
 2019,1,QB,Matt Moore,KC,JAX,0.4,0,-0.4,0,0,-4,13.5
 2019,1,QB,Patrick Mahomes,KC,JAX,17.3,27.3,10,0.04,0,184,13.5
@@ -6305,7 +6325,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,2,QB,Aaron Rodgers,GB,MIN,10.3,13.8,3.5,0.03,0,259,13.5
 2019,2,QB,Deshaun Watson,HOU,JAX,14.3,9.9,-4.4,0.07,0,371,13.5
 2019,2,QB,Jacoby Brissett,IND,TEN,10.7,14.9,4.2,0.07,0,140,13.5
-2019,2,QB,Gardner Minshew II,JAX,HOU,12.3,13.2,0.9,0,0,212,13.5
+2019,2,QB,Gardner Minshew,JAX,HOU,24.6,26.4,1.8,0,0,424,13.5
 2019,2,QB,Patrick Mahomes,KC,LV,20.9,32.7,11.8,0,0,557,13.5
 2019,2,QB,Jared Goff,LA,NO,14.3,18.9,4.6,0.04,0,200,13.5
 2019,2,QB,Philip Rivers,LAC,DET,15.4,10.1,-5.3,0,0,378,13.5
@@ -6342,7 +6362,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,3,QB,Aaron Rodgers,GB,DEN,10.2,13.4,3.2,0,0,258,13.5
 2019,3,QB,Deshaun Watson,HOU,LAC,12.8,26,13.2,0.14,0,283,13.5
 2019,3,QB,Jacoby Brissett,IND,ATL,18.1,19.6,1.5,0,0,206,13.5
-2019,3,QB,Gardner Minshew II,JAX,TEN,14.8,18.1,3.3,0,0,213,13.5
+2019,3,QB,Gardner Minshew,JAX,TEN,29.6,36.1,6.5,0,0,426,13.5
 2019,3,QB,Patrick Mahomes,KC,BAL,15.4,26.5,11.1,0.05,0,326,13.5
 2019,3,QB,Jared Goff,LA,CLE,18.3,14.3,-4,0.09,0,390,13.5
 2019,3,QB,Philip Rivers,LAC,HOU,16.5,18.1,1.6,0,0,471,13.5
@@ -6379,7 +6399,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,4,QB,Aaron Rodgers,GB,PHI,25.5,26.4,0.9,0,0,371,13.5
 2019,4,QB,Deshaun Watson,HOU,CAR,10.1,9.1,-1,0.05,0,305,13.5
 2019,4,QB,Jacoby Brissett,IND,LV,23.4,22.6,-0.8,0.05,0,484,13.5
-2019,4,QB,Gardner Minshew II,JAX,DEN,9.7,12.9,3.2,0.03,0,358,13.5
+2019,4,QB,Gardner Minshew,JAX,DEN,19.5,25.9,6.4,0.05,0,716,13.5
 2019,4,QB,Patrick Mahomes,KC,DET,20.3,17.6,-2.7,0.05,0,502,13.5
 2019,4,QB,Jared Goff,LA,TB,20.1,18.9,-1.2,0,0,472,13.5
 2019,4,QB,Philip Rivers,LAC,MIA,12.5,19.6,7.1,0.03,0,237,13.5
@@ -6412,7 +6432,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,5,QB,Aaron Rodgers,GB,DAL,13.7,6.6,-7.1,0,0,247,13.5
 2019,5,QB,Deshaun Watson,HOU,ATL,22.5,41.7,19.2,0.09,0,286,13.5
 2019,5,QB,Jacoby Brissett,IND,KC,9.3,11.1,1.8,0.05,0,148,13.5
-2019,5,QB,Gardner Minshew II,JAX,CAR,11.7,24.9,13.2,0.04,0,432,13.5
+2019,5,QB,Gardner Minshew,JAX,CAR,23.5,49.8,26.3,0.08,0,864,13.5
 2019,5,QB,Patrick Mahomes,KC,IND,12.8,14,1.2,0,0,463,13.5
 2019,5,QB,Jared Goff,LA,SEA,17.1,17.9,0.8,0,0,411,13.5
 2019,5,QB,Philip Rivers,LAC,DEN,17.4,4.1,-13.3,0.06,0,212,13.5
@@ -6444,7 +6464,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,6,QB,Matthew Stafford,DET,GB,15.6,8.5,-7.1,0.06,0,328,13.5
 2019,6,QB,Aaron Rodgers,GB,DET,14.5,17.7,3.2,0,0,372,13.5
 2019,6,QB,Deshaun Watson,HOU,KC,17.7,27.6,9.9,0.09,0,369,13.5
-2019,6,QB,Gardner Minshew II,JAX,NO,8.5,3,-5.5,0,0,233,13.5
+2019,6,QB,Gardner Minshew,JAX,NO,17,6.1,-10.9,0,0,466,13.5
 2019,6,QB,Patrick Mahomes,KC,HOU,17.4,18.5,1.1,0,0,350,13.5
 2019,6,QB,Jared Goff,LA,SF,4.2,-1.1,-5.3,0.05,0,155,13.5
 2019,6,QB,Philip Rivers,LAC,PIT,12.4,16.2,3.8,0.07,0,486,13.5
@@ -6477,7 +6497,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,7,QB,Aaron Rodgers,GB,LV,16.1,42.6,26.5,0,0,268,13.5
 2019,7,QB,Deshaun Watson,HOU,IND,11.1,13.1,2,0,0,268,13.5
 2019,7,QB,Jacoby Brissett,IND,HOU,17.9,29.1,11.2,0.05,0,281,13.5
-2019,7,QB,Gardner Minshew II,JAX,CIN,12.5,17.6,5.1,0.05,0,254,13.5
+2019,7,QB,Gardner Minshew,JAX,CIN,25,35.1,10.1,0.1,0,508,13.5
 2019,7,QB,Matt Moore,KC,DEN,7.2,8.4,1.2,0,0,147,13.5
 2019,7,QB,Patrick Mahomes,KC,DEN,3.9,7.2,3.3,0.04,0,25,13.5
 2019,7,QB,Jared Goff,LA,ATL,26.6,25,-1.6,0.08,0,373,13.5
@@ -6509,7 +6529,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,8,QB,Aaron Rodgers,GB,KC,11,20.5,9.5,0,0,236,13.5
 2019,8,QB,Deshaun Watson,HOU,LV,14.8,25.1,10.3,0.12,0,266,13.5
 2019,8,QB,Jacoby Brissett,IND,DEN,7.3,9.9,2.6,0.04,0,205,13.5
-2019,8,QB,Gardner Minshew II,JAX,NYJ,18.8,26.2,7.4,0,0,223,13.5
+2019,8,QB,Gardner Minshew,JAX,NYJ,37.7,52.4,14.7,0,0,446,13.5
 2019,8,QB,Matt Moore,KC,GB,11.2,16.5,5.3,0,0,200,13.5
 2019,8,QB,Jared Goff,LA,CIN,13.6,22.9,9.3,0,0,321,13.5
 2019,8,QB,Philip Rivers,LAC,CHI,9.2,9.2,0,0,0,259,13.5
@@ -6541,7 +6561,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,9,QB,Deshaun Watson,HOU,JAX,16.3,18.8,2.5,0.13,0,181,13.5
 2019,9,QB,Brian Hoyer,IND,PIT,5.9,12.6,6.7,0,0,158,13.5
 2019,9,QB,Jacoby Brissett,IND,PIT,3.1,2.2,-0.9,0.04,0,24,13.5
-2019,9,QB,Gardner Minshew II,JAX,HOU,12.3,10.6,-1.7,0,0,386,13.5
+2019,9,QB,Gardner Minshew,JAX,HOU,24.5,21.3,-3.2,0,0,772,13.5
 2019,9,QB,Matt Moore,KC,MIN,11.2,8.7,-2.5,0,0,287,13.5
 2019,9,QB,Philip Rivers,LAC,GB,9.2,10.3,1.1,0,0,238,13.5
 2019,9,QB,Derek Carr,LV,DET,10.9,18.2,7.3,0,0,263,13.5
@@ -6666,7 +6686,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,13,QB,Aaron Rodgers,GB,NYG,18.7,28.1,9.4,0,0,268,13.5
 2019,13,QB,Deshaun Watson,HOU,NE,9.7,19.3,9.6,0,0,195,13.5
 2019,13,QB,Jacoby Brissett,IND,TEN,11.6,11.4,-0.2,0,0,322,13.5
-2019,13,QB,Gardner Minshew II,JAX,TB,9.2,5.3,-3.9,0,0,106,13.5
+2019,13,QB,Gardner Minshew,JAX,TB,18.4,10.6,-7.8,0,0,212,13.5
 2019,13,QB,Nick Foles,JAX,TB,0.3,-1.2,-1.5,0.07,0,108,13.5
 2019,13,QB,Patrick Mahomes,KC,LV,14.8,17.8,3,0.04,0,259,13.5
 2019,13,QB,Blake Bortles,LA,ARI,0,-0.9,-0.9,0.03,0,-3,13.5
@@ -6701,7 +6721,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,14,QB,Aaron Rodgers,GB,WAS,10.2,9.8,-0.4,0,0,219,13.5
 2019,14,QB,Deshaun Watson,HOU,DEN,14.4,26.4,12,0,0,434,13.5
 2019,14,QB,Jacoby Brissett,IND,TB,16,19.5,3.5,0.05,0,351,13.5
-2019,14,QB,Gardner Minshew II,JAX,LAC,11.2,12.6,1.4,0,0,203,13.5
+2019,14,QB,Gardner Minshew,JAX,LAC,22.5,25.2,2.7,0,0,406,13.5
 2019,14,QB,Patrick Mahomes,KC,NE,14.1,12.5,-1.6,0,0,219,13.5
 2019,14,QB,Jared Goff,LA,SEA,13.4,16.2,2.8,0,0,286,13.5
 2019,14,QB,Philip Rivers,LAC,JAX,9.1,23.2,14.1,0.04,0,231,13.5
@@ -6737,7 +6757,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,15,QB,Aaron Rodgers,GB,CHI,13,12.9,-0.1,0.05,0,305,13.5
 2019,15,QB,Deshaun Watson,HOU,TEN,16.9,15.7,-1.2,0.1,0,271,13.5
 2019,15,QB,Jacoby Brissett,IND,NO,9.1,6.5,-2.6,0,0,343,13.5
-2019,15,QB,Gardner Minshew II,JAX,LV,13,16.5,3.5,0.06,0,241,13.5
+2019,15,QB,Gardner Minshew,JAX,LV,25.9,33,7.1,0.11,0,482,13.5
 2019,15,QB,Patrick Mahomes,KC,DEN,17.4,19,1.6,0,0,337,13.5
 2019,15,QB,Jared Goff,LA,DAL,16.6,14.6,-2,0.15,0,320,13.5
 2019,15,QB,Philip Rivers,LAC,MIN,10.2,6.9,-3.3,0,0,344,13.5
@@ -6772,7 +6792,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,16,QB,Aaron Rodgers,GB,MIN,9.4,4.3,-5.1,0,0,266,13.5
 2019,16,QB,Deshaun Watson,HOU,TB,15.8,5.9,-9.9,0.05,0,215,13.5
 2019,16,QB,Jacoby Brissett,IND,CAR,18.7,12.6,-6.1,0.04,0,289,13.5
-2019,16,QB,Gardner Minshew II,JAX,ATL,12.3,12.8,0.5,0,0,239,13.5
+2019,16,QB,Gardner Minshew,JAX,ATL,24.5,25.7,1.2,0,0,478,13.5
 2019,16,QB,Patrick Mahomes,KC,CHI,11.6,24.5,12.9,0,0,244,13.5
 2019,16,QB,Jared Goff,LA,SF,10.2,20.1,9.9,0,0,289,13.5
 2019,16,QB,Philip Rivers,LAC,LV,7.8,9.2,1.4,0,0,208,13.5
@@ -6812,7 +6832,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2019,17,QB,Aaron Rodgers,GB,DET,22.3,17.6,-4.7,0,0,770,13.5
 2019,17,QB,AJ McCarron,HOU,TEN,9.9,12.3,2.4,0,0,308,13.5
 2019,17,QB,Jacoby Brissett,IND,JAX,6.3,5.5,-0.8,0.08,0,197,13.5
-2019,17,QB,Gardner Minshew II,JAX,IND,17.6,21.5,3.9,0,0,232,13.5
+2019,17,QB,Gardner Minshew,JAX,IND,35.1,43.1,8,0,0,464,13.5
 2019,17,QB,Patrick Mahomes,KC,LAC,10.7,11.3,0.6,0.16,0,142,13.5
 2019,17,QB,Jared Goff,LA,ARI,20.1,24.1,4,0,0,352,13.5
 2019,17,QB,Philip Rivers,LAC,KC,10.5,12.5,2,0,0,314,13.5
@@ -6876,7 +6896,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,1,QB,Deshaun Watson,HOU,KC,10.9,19.4,8.5,0.06,0,283,13.5
 2020,1,QB,Jacoby Brissett,IND,JAX,-0.7,-0.8,-0.1,0,0,0,13.5
 2020,1,QB,Philip Rivers,IND,JAX,17.6,14.8,-2.8,0,0,289,13.5
-2020,1,QB,Gardner Minshew II,JAX,IND,7.6,17.9,10.3,0,0,89,13.5
+2020,1,QB,Gardner Minshew,JAX,IND,15.2,35.8,20.6,0,0,178,13.5
 2020,1,QB,Patrick Mahomes,KC,HOU,16.4,19.3,2.9,0,0,147,13.5
 2020,1,QB,Jared Goff,LA,DAL,10,9.8,-0.2,0.03,0,140,13.5
 2020,1,QB,Tyrod Taylor,LAC,CIN,13.5,9,-4.5,0.08,0,335,13.5
@@ -6911,7 +6931,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,2,QB,Aaron Rodgers,GB,DET,14.5,17.3,2.8,0,0,277,13.5
 2020,2,QB,Deshaun Watson,HOU,BAL,8.3,11.6,3.3,0,0,283,13.5
 2020,2,QB,Philip Rivers,IND,MIN,12.2,9.3,-2.9,0.03,0,219,13.5
-2020,2,QB,Gardner Minshew II,JAX,TEN,16.4,20.1,3.7,0.04,0,393,13.5
+2020,2,QB,Gardner Minshew,JAX,TEN,32.9,40.2,7.3,0.08,0,786,13.5
 2020,2,QB,Patrick Mahomes,KC,LAC,14.7,23.7,9,0,0,329,13.5
 2020,2,QB,Jared Goff,LA,PHI,16.8,23,6.2,0.06,0,221,13.5
 2020,2,QB,Justin Herbert,LAC,KC,12,20.1,8.1,0.02,0,283,13.5
@@ -6948,7 +6968,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,3,QB,Deshaun Watson,HOU,PIT,9.7,12.4,2.7,0,0,291,13.5
 2020,3,QB,Jacoby Brissett,IND,NYJ,1.1,0.7,-0.4,0,0,7,13.5
 2020,3,QB,Philip Rivers,IND,NYJ,9,12.7,3.7,0,0,136,13.5
-2020,3,QB,Gardner Minshew II,JAX,MIA,13,7.1,-5.9,0,0,313,13.5
+2020,3,QB,Gardner Minshew,JAX,MIA,26,14.3,-11.7,0,0,626,13.5
 2020,3,QB,Patrick Mahomes,KC,BAL,21.5,40,18.5,0,0,246,13.5
 2020,3,QB,Jared Goff,LA,BUF,9.1,23.8,14.7,0.03,0,191,13.5
 2020,3,QB,Justin Herbert,LAC,CAR,14.3,15.2,0.9,0.05,0,296,13.5
@@ -6984,7 +7004,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,4,QB,Aaron Rodgers,GB,ATL,19.5,27.9,8.4,0,0,285,13.5
 2020,4,QB,Deshaun Watson,HOU,MIN,15,19.5,4.5,0.05,0,300,13.5
 2020,4,QB,Philip Rivers,IND,CHI,13.2,11,-2.2,0,0,240,13.5
-2020,4,QB,Gardner Minshew II,JAX,CIN,9.4,19.4,10,0,0,285,13.5
+2020,4,QB,Gardner Minshew,JAX,CIN,18.9,38.8,19.9,0,0,570,13.5
 2020,4,QB,Patrick Mahomes,KC,NE,18.2,19.9,1.7,0,0,209,13.5
 2020,4,QB,Jared Goff,LA,NYG,9.5,9.5,0,0,0,196,13.5
 2020,4,QB,Justin Herbert,LAC,TB,8.9,21.4,12.5,0.1,0,193,13.5
@@ -7018,7 +7038,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,5,QB,Dak Prescott,DAL,NYG,10.5,4.4,-6.1,0.07,0,139,13.5
 2020,5,QB,Deshaun Watson,HOU,JAX,15.4,24.6,9.2,0,0,341,13.5
 2020,5,QB,Philip Rivers,IND,CLE,8.7,5.3,-3.4,0,0,263,13.5
-2020,5,QB,Gardner Minshew II,JAX,HOU,15,20.7,5.7,0.06,0,295,13.5
+2020,5,QB,Gardner Minshew,JAX,HOU,30,41.4,11.4,0.11,0,590,13.5
 2020,5,QB,Patrick Mahomes,KC,LV,19.1,26.7,7.6,0.18,0,434,13.5
 2020,5,QB,Jared Goff,LA,WAS,12.3,23.3,11,0,0,188,13.5
 2020,5,QB,Justin Herbert,LAC,NO,12.9,23.8,10.9,0.07,0,379,13.5
@@ -7055,7 +7075,7 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,6,QB,Tim Boyle,GB,TB,-0.6,-1.5,-0.9,0,0,0,13.5
 2020,6,QB,Deshaun Watson,HOU,TEN,17.6,29.9,12.3,0.04,0,327,13.5
 2020,6,QB,Philip Rivers,IND,CIN,13.3,24.8,11.5,0,0,340,13.5
-2020,6,QB,Gardner Minshew II,JAX,DET,18.4,17.5,-0.9,0,0,417,13.5
+2020,6,QB,Gardner Minshew,JAX,DET,36.9,35.1,-1.8,0,0,834,13.5
 2020,6,QB,Patrick Mahomes,KC,BUF,13.7,20.2,6.5,0.05,0,161,13.5
 2020,6,QB,Jared Goff,LA,SF,10.2,14.9,4.7,0,0,455,13.5
 2020,6,QB,Ryan Fitzpatrick,MIA,NYJ,13,14.9,1.9,0,0,211,13.5
@@ -7077,16 +7097,20 @@ Season,Week,Pos,Player,Team,Opp,xFP,FP,Diff,Rush_Share,Target_Share,Air_Yards,po
 2020,7,QB,Matt Ryan,ATL,DET,11.1,15.3,4.2,0,0,154,13.5
 2020,7,QB,Josh Allen,BUF,NYJ,14.9,17,2.1,0.27,0,295,13.5
 2020,7,QB,Teddy Bridgewater,CAR,NO,9.4,18,8.6,0,0,186,13.5
+2020,7,QB,Nick Foles,CHI,LA,7.5,2.1,-5.4,0,0,449,13.5
 2020,7,QB,Joe Burrow,CIN,CLE,25.3,30.7,5.4,0.25,0,355,13.5
 2020,7,QB,Baker Mayfield,CLE,CIN,12,30,18,0,0,248,13.5
 2020,7,QB,Andy Dalton,DAL,WAS,3.5,-1.6,-5.1,0,0,124,13.5
+2020,7,QB,Ben DiNucci,DAL,WAS,-1.4,-1.9,-0.5,0.04,0,36,13.5
 2020,7,QB,Drew Lock,DEN,KC,11.7,10.2,-1.5,0.06,0,265,13.5
 2020,7,QB,Matthew Stafford,DET,ATL,12.1,15.9,3.8,0,0,341,13.5
 2020,7,QB,Aaron Rodgers,GB,HOU,18.1,27.3,9.2,0,0,233,13.5
 2020,7,QB,Deshaun Watson,HOU,GB,19.2,21.2,2,0.06,0,254,13.5
-2020,7,QB,Gardner Minshew II,JAX,LAC,3.3,14.4,11.1,0,0,252,13.5
+2020,7,QB,Gardner Minshew,JAX,LAC,6.6,28.7,22.1,0,0,504,13.5
 2020,7,QB,Chad Henne,KC,DEN,5.7,6.2,0.5,0.05,0,2,13.5
 2020,7,QB,Patrick Mahomes,KC,DEN,8.1,8.5,0.4,0,0,164,13.5
+2020,7,QB,Jared Goff,LA,CHI,13.1,15.8,2.7,0.03,0,267,13.5
+2020,7,QB,Easton Stick,LAC,JAX,0.7,-0,-0.7,0.04,0,0,13.5
 2020,7,QB,Justin Herbert,LAC,JAX,18.2,38.5,20.3,0.08,0,383,13.5
 2020,7,QB,Derek Carr,LV,TB,14.1,17.4,3.3,0,0,315,13.5
 2020,7,QB,Cam Newton,NE,SF,6,-1.3,-7.3,0.16,0,169,13.5
